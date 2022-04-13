@@ -1,0 +1,21 @@
+{
+  "Token": "Coloque o token de seu bot, Disponivel em: https://discord.com/developers/applications",
+  "Canalaprovarid": "Id do canal de aprovar id",
+  "Status": "Status do bot",
+  
+  "Basedb": "kzshop",
+  "userdb": "root",
+  "senhadb": " ",
+  "ipdb": "",
+  
+  "emojiaprovado": ":white_check_mark:" ,
+  "emojinegado": ":x:" ,
+  
+  "cargovisit": "",
+  "cargoaprove": "",
+  
+  "corembed": "RED",
+  "titleembed": "Faça sua WhiteList automática.",
+  "descembed": "Mande seu id para liberar sua WhiteList.",
+  "footerembed": ""
+  }
